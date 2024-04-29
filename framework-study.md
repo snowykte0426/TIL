@@ -13,7 +13,7 @@
 + 프론트엔드(Frontend)와 상호작용하며 데이터베이스(Database; DB)와 통신하고 처리하는 시스템을 구축한다.
 + 데이터를 관리하고 암호화하여 사용자의 개인 정보를 보호한다.
 + 일반적으로 프레임워크(framework)를 통해 웹 서버를 구축하고 운영한다.
-    <details>
+    <details open>
     <summary>백엔드 추가조사</summary>
 
     ## 프레임워크(framework)
@@ -43,10 +43,16 @@
         + 풀스택 프레임워크(full-stack framework)이다.
         + 대표적으로 인스타그램이 장고를 사용하고 있다.
     + **Flask**
+
+        <img src="https://github.com/snowykte0426/TIL/blob/main/img/Flask.png" width="300" height="265">
+
         + Django와 마찬가지로 Python 기반의 프레임워크
         + 매우 가벼운 편이고 다양한 웹 엔진들과 조합이 가능하기에 장고와 함께 쓰는 경우도 있다.
         + 풀스택 프레임워크가 아닌 마이크로 프레임워크(micro framework)이다.
     + **Next.js**
+
+        <img src="https://github.com/snowykte0426/TIL/blob/main/img/next.js.png" width="300" height="140">
+
         + React기반의 프레임워크
         + 풀스택 프레임워크이다.
         + 제작사인 Vercel 역시 사용중이고 Twitch,틱톡 등도 사용중인 프레임워크이다.
