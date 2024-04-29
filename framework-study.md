@@ -2,7 +2,7 @@
 + 사용자가 웹 사이트나 웹 애플리케이션과 상호작용 하는 부분을 만드는 전공이다.
 + 브라우저에서 직접적으로 볼 수있는 디자인,레이아웃 등과 UI를 개발한다.
 + HTML,CSS,JavaScript 등을 사용하며 백엔드 개발자들과 상호작용한다.
-![HTML5_logo](https://github.com/snowykte0426/TIL/blob/main/img/HTML5.png)![CSS3_logo](https://github.com/snowykte0426/TIL/blob/main/img/CSS3.png)![javascript_logo](https://github.com/snowykte0426/TIL/blob/main/img/JavaScript.png)
+![HTML5_logo](https://github.com/snowykte0426/TIL/blob/main/img/HTML5.png){: width="100" height="100"}![CSS3_logo](https://github.com/snowykte0426/TIL/blob/main/img/CSS3.png)![javascript_logo](https://github.com/snowykte0426/TIL/blob/main/img/JavaScript.png)
 + 웹 퍼블리셔(UI 개발자)와 혼동하기 쉬운데 웹 퍼블리셔는 디자인에 더 가깝다고 생각하면 쉽다.
 + 프론트 영역 전반의 지식과 기본적인 서버 지식이 필요하다.
 # ⭐백엔드(Backend)
