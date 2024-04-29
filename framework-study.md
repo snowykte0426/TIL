@@ -66,35 +66,47 @@
         + 대표적으로 나무위키가 이 프레임워크를 기반으로 제작된 위키엔진을 사용 중이다.
     + **Laravel**
     
-        <img src="https://github.com/snowykte0426/TIL/blob/main/img/Laravel.png" width="330" height="120">
+        <img src="https://github.com/snowykte0426/TIL/blob/main/img/Laravel.png" width="330" height="140">
 
         + PHP기반의 프레임워크
         + 풀스택 웹 프레임워크이다.
     + **Ruby on Rails**
 
-        <img src="https://github.com/snowykte0426/TIL/blob/main/img/Ruby_On_Rails.png" width="340" height="190">
+        <img src="https://github.com/snowykte0426/TIL/blob/main/img/Ruby_On_Rails.png" width="360" height="190">
 
         + Ruby기반의 풀스택 웹 프레임워크이다.
         + 비교적 쉽고 빠르게 웹을 배포할 수있다.
         + 우리나라에선 비교적 약세를 프레임워크이지만 당근,왓챠등의 사이트가 사용한다.
     </details>
 # iOS
+
+<img src="https://github.com/snowykte0426/TIL/blob/main/img/iOS.png" width="300" height="190">
+
 + 애플의 아이폰(iPhone)에서 구동되는 앱을 개발한다.
 + Xcode,AppCode 등의 IDE를 이용해서 개발하며 Swift라는 언어를 사용한다.
 + Mac OS가 구동되는 애플의 컴퓨터가 필요하다.
 + Android 앱 개발자와 같이 모바일 분야의 개발자이다.
 + 광범위한 API 지원을 통해 비교적 손쉽게 기능을 구현할 수있다.
 # Android(AOS)
+
+<img src="https://github.com/snowykte0426/TIL/blob/main/img/Android.svg" width="320" height="195">
+
 + Android 운영체제에서 구동되는 앱을 개발한다.
 + Java나 같은 JVM에서 구동되는 Kotlin을 주로 사용한다.
 + Android Studio라는 IDE를 사용해 개발한다.
 + 다양한 기기에서 구동가능한 Android OS 이기에 다양한 환경에 맞게 개발가능한 능력이 있으면 좋다.
 # DevOps
+
+<img src="https://github.com/snowykte0426/TIL/blob/main/img/DevOps.png" width="320" height="180">
+
 + 소프트웨어가 빠르게 배포할 수있도록 연구하고 그 과정을 개선하는 직군이다.
 + 각 팀과의 소통이 원활히 이루어 질 수있는 환경을 제공한다.
 + IT 인프라를 설계하고 자동화하여 소프트웨어의 배포를 자동화하고 효율적으로 만드는 것 역시 매우 중요한 직무이다.
 + 모든 분야가 그러하지만 CS(Computer Science) 지식과 백엔드,프론트엔드등 타 분야의 기초지식도 있어야 한다.
 # Design
+
+<img src="https://github.com/snowykte0426/TIL/blob/main/img/UX%20and%20UI.jpg" width="300" height="200">
+
 + 다양한 뜻을 내포한 단어이지만 개발 쪽에서 디자인이라 하면 보통 **UI/UX**(User Interface)/(User Experience) 디자인을 의미한다.
 + 수많은 도구를 사용할 수 있지만 대표적으로 Figma,Adobe Illustrator,Adobe Photoshop 등의 프로그램을 사용한다.
 + 사용자에게 좋은 인상을 남기고 사용하기 편리한 인터페이스를 구성해야 하기에 기본적인 UI/UX 지식과 약간의 미적감각이 있으면 더욱더 좋다.
