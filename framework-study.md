@@ -6,6 +6,7 @@
 <img src="https://github.com/snowykte0426/TIL/blob/main/img/HTML5.png" width="100" height="100">
 <img src="https://github.com/snowykte0426/TIL/blob/main/img/CSS3.png" width="80" height="120">
 <img src="https://github.com/snowykte0426/TIL/blob/main/img/JavaScript.png" width="100" height="100">
+
 + 웹 퍼블리셔(UI 개발자)와 혼동하기 쉬운데 웹 퍼블리셔는 디자인에 더 가깝다고 생각하면 쉽다.
 + 프론트 영역 전반의 지식과 기본적인 서버 지식이 필요하다.
 # ⭐백엔드(Backend)
