@@ -29,7 +29,7 @@
 
     + **Spring**
 
-        <img src="https://github.com/snowykte0426/TIL/blob/main/img/Spring.png" width="350" height="100">
+        <img src="https://github.com/snowykte0426/TIL/blob/main/img/Spring.png" width="350" height="170">
 
         + Java기반의 프레임워크
         + 대표적인 특징으로는 **의존성 주입**(Dependency Injection; **DI**)과 **제어 역전**(Inversion of Control; **IoC**)가 있다.
@@ -37,8 +37,8 @@
         + [전자정부표준프레임워크](https://www.egovframe.go.kr/home/main.do)의 기반이다.
     + **Django**
 
-        <img src="https://github.com/snowykte0426/TIL/blob/main/img/django.png" width="340" height="100">
-        
+        <img src="https://github.com/snowykte0426/TIL/blob/main/img/django.png" width="340" height="110">
+
         + Python기반의 프레임워크
         + 풀스택 프레임워크(full-stack framework)이다.
         + 대표적으로 인스타그램이 장고를 사용하고 있다.
