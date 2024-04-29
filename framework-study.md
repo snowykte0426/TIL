@@ -1,3 +1,4 @@
+**화이트 모드로 보시는 걸 추천합니다!**
 # 프론트엔드(Frontend)
 + 사용자가 웹 사이트나 웹 애플리케이션과 상호작용 하는 부분을 만드는 전공이다.
 + 브라우저에서 직접적으로 볼 수있는 디자인,레이아웃 등과 UI를 개발한다.
@@ -57,13 +58,22 @@
         + 풀스택 프레임워크이다.
         + 제작사인 Vercel 역시 사용중이고 Twitch,틱톡 등도 사용중인 프레임워크이다.
     + **Express.js**
+
+        <img src="https://github.com/snowykte0426/TIL/blob/main/img/Express.js.png" width="340" height="120">
+
         + JavaScript,정확히는 Node.js 기반의 프레임워크이다.
         + npm을 통해 쉽게 다운로드 할 수있다.
         + 대표적으로 나무위키가 이 프레임워크를 기반으로 제작된 위키엔진을 사용 중이다.
     + **Laravel**
+    
+        <img src="https://github.com/snowykte0426/TIL/blob/main/img/Laravel.png" width="330" height="120">
+
         + PHP기반의 프레임워크
         + 풀스택 웹 프레임워크이다.
     + **Ruby on Rails**
+
+        <img src="https://github.com/snowykte0426/TIL/blob/main/img/Ruby_On_Rails.png" width="340" height="190">
+
         + Ruby기반의 풀스택 웹 프레임워크이다.
         + 비교적 쉽고 빠르게 웹을 배포할 수있다.
         + 우리나라에선 비교적 약세를 프레임워크이지만 당근,왓챠등의 사이트가 사용한다.
