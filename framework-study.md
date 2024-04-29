@@ -44,7 +44,7 @@
         + 대표적으로 인스타그램이 장고를 사용하고 있다.
     + **Flask**
 
-        <img src="https://github.com/snowykte0426/TIL/blob/main/img/Flask.png" width="300" height="265">
+        <img src="https://github.com/snowykte0426/TIL/blob/main/img/Flask.png" width="280" height="245">
 
         + Django와 마찬가지로 Python 기반의 프레임워크
         + 매우 가벼운 편이고 다양한 웹 엔진들과 조합이 가능하기에 장고와 함께 쓰는 경우도 있다.
