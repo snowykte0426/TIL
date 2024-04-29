@@ -3,7 +3,7 @@
 + 브라우저에서 직접적으로 볼 수있는 디자인,레이아웃 등과 UI를 개발한다.
 + HTML,CSS,JavaScript 등을 사용하며 백엔드 개발자들과 상호작용한다.
 <img src="https://github.com/snowykte0426/TIL/blob/main/img/HTML5.png" width="100" height="100">
-<img src="https://github.com/snowykte0426/TIL/blob/main/img/CSS3.png" width="100" height="100">
+<img src="https://github.com/snowykte0426/TIL/blob/main/img/CSS3.png" width="100" height="140">
 <img src="https://github.com/snowykte0426/TIL/blob/main/img/JavaScript.png" width="100" height="100">
 + 웹 퍼블리셔(UI 개발자)와 혼동하기 쉬운데 웹 퍼블리셔는 디자인에 더 가깝다고 생각하면 쉽다.
 + 프론트 영역 전반의 지식과 기본적인 서버 지식이 필요하다.
