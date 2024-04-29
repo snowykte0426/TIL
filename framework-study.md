@@ -2,7 +2,9 @@
 + 사용자가 웹 사이트나 웹 애플리케이션과 상호작용 하는 부분을 만드는 전공이다.
 + 브라우저에서 직접적으로 볼 수있는 디자인,레이아웃 등과 UI를 개발한다.
 + HTML,CSS,JavaScript 등을 사용하며 백엔드 개발자들과 상호작용한다.
-<img src="https://github.com/snowykte0426/TIL/blob/main/img/HTML5.png" width="100" height="100"> <img src="https://github.com/snowykte0426/TIL/blob/main/img/CSS3.png" width="80" height="120"> <img src="https://github.com/snowykte0426/TIL/blob/main/img/JavaScript.png" width="100" height="100">
+<img src="https://github.com/snowykte0426/TIL/blob/main/img/HTML5.png" width="100" height="100">
+<img src="https://github.com/snowykte0426/TIL/blob/main/img/CSS3.png" width="80" height="120">
+<img src="https://github.com/snowykte0426/TIL/blob/main/img/JavaScript.png" width="100" height="100">
 + 웹 퍼블리셔(UI 개발자)와 혼동하기 쉬운데 웹 퍼블리셔는 디자인에 더 가깝다고 생각하면 쉽다.
 + 프론트 영역 전반의 지식과 기본적인 서버 지식이 필요하다.
 # ⭐백엔드(Backend)
@@ -27,11 +29,16 @@
 
     + **Spring**
 
+        <img src="https://github.com/snowykte0426/TIL/blob/main/img/Spring.png" width="350" height="100">
+
         + Java기반의 프레임워크
         + 대표적인 특징으로는 **의존성 주입**(Dependency Injection; **DI**)과 **제어 역전**(Inversion of Control; **IoC**)가 있다.
         + 의존성 관리와 라이브러리 설정,웹 서버를 내장하고 있어 편리하게 스프링을 사용할 수 있게 해주는 **스프링부트(Spring Boot)** 가 존재한다.
         + [전자정부표준프레임워크](https://www.egovframe.go.kr/home/main.do)의 기반이다.
     + **Django**
+
+        <img src="https://github.com/snowykte0426/TIL/blob/main/img/django.png" width="340" height="100">
+        
         + Python기반의 프레임워크
         + 풀스택 프레임워크(full-stack framework)이다.
         + 대표적으로 인스타그램이 장고를 사용하고 있다.
