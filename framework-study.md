@@ -83,7 +83,7 @@
     </details>
 # iOS
 
-<img src="https://github.com/snowykte0426/TIL/blob/main/img/iOS.png" width="300" height="210">
+<img src="https://github.com/snowykte0426/TIL/blob/main/img/iOS.png" width="360" height="210">
 
 + 애플의 아이폰(iPhone)에서 구동되는 앱을 개발한다.
 + Xcode,AppCode 등의 IDE를 이용해서 개발하며 Swift라는 언어를 사용한다.
@@ -108,7 +108,7 @@
 + 모든 분야가 그러하지만 CS(Computer Science) 지식과 백엔드,프론트엔드등 타 분야의 기초지식도 있어야 한다.
 # Design
 
-<img src="https://github.com/snowykte0426/TIL/blob/main/img/UX%20and%20UI.jpg" width="300" height="200">
+<img src="https://github.com/snowykte0426/TIL/blob/main/img/UX%20and%20UI.jpg" width="350" height="200">
 
 + 다양한 뜻을 내포한 단어이지만 개발 쪽에서 디자인이라 하면 보통 **UI/UX**(User Interface)/(User Experience) 디자인을 의미한다.
 + 수많은 도구를 사용할 수 있지만 대표적으로 Figma,Adobe Illustrator,Adobe Photoshop 등의 프로그램을 사용한다.
@@ -116,6 +116,9 @@
 
 # 웹 프로젝트에서의 프론트엔드와 백엔드
 ### 프론트엔드의 역할
+
+<img src="https://ems.elancer.co.kr/99_upload/Append/T_Blog/editor/2023111609473545180.jpg" style="margin-left: 30px;" width="240">
+
 + 웹사이트,애플리케이션 등의 UI를 구축/구현한다.
 + 디자이너들이 디자인한 내용을 실제로 구현하는 역할
 + 이미지,코드를 최적화하고 캐싱(Caching) 등의 기술을 통해 실행속도를 최적화한다.
@@ -123,6 +126,9 @@
 + 웹 사이트의 호환성을 확보하여 여러 브라우저(Browser)나 OS(**O**perating **S**ystem)에서 구동을 보장한다.
 + 프론트엔드 분야에서의 보안 취약점을 식별하고 이를 수정하는 역할도 맡을 수 있다.
 ### 백엔드의 역할
+
+<img src="https://ems.elancer.co.kr/99_upload/Append/T_Blog/editor/2023111609483424356.jpg" style="margin-left: 30px;" width="240">
+
 + 프론트엔드에서 넘어온 데이터를 처리하기 위해 서버를 구축한다.
 + 서버 구축에서 더 나아가 필요한 경우 데이터를 저장하고 사용하기 위해 DB도 구축하고 연결한다.
 + DB 내의 데이터를 관리한다.
