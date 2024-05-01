@@ -3,9 +3,11 @@
 + 사용자가 웹 사이트나 웹 애플리케이션과 상호작용 하는 부분을 만드는 전공이다.
 + 브라우저에서 직접적으로 볼 수있는 디자인,레이아웃 등과 UI를 개발한다.
 + HTML,CSS,JavaScript 등을 사용하며 백엔드 개발자들과 상호작용한다.
-<img src="https://github.com/snowykte0426/TIL/blob/main/img/HTML5.png" width="100" height="100">
-<img src="https://github.com/snowykte0426/TIL/blob/main/img/CSS3.png" width="80" height="120">
-<img src="https://github.com/snowykte0426/TIL/blob/main/img/JavaScript.png" width="100" height="100">
+<figure class="thrid">
+    <a href="link"><img src="https://github.com/snowykte0426/TIL/blob/main/img/HTML5.png" aling='left'width="100" height="100"></a>
+    <a href="link"><img src="https://github.com/snowykte0426/TIL/blob/main/img/CSS3.png" width="80" height="110"></a>
+    <a href="ling"><img src="https://github.com/snowykte0426/TIL/blob/main/img/JavaScript.png" width="100" height="100"></a>
+</figure>
 
 + 웹 퍼블리셔(UI 개발자)와 혼동하기 쉬운데 웹 퍼블리셔는 디자인에 더 가깝다고 생각하면 쉽다.
 + 프론트 영역 전반의 지식과 기본적인 서버 지식이 필요하다.
@@ -15,7 +17,7 @@
 + 프론트엔드(Frontend)와 상호작용하며 데이터베이스(Database; DB)와 통신하고 처리하는 시스템을 구축한다.
 + 데이터를 관리하고 암호화하여 사용자의 개인 정보를 보호한다.
 + 일반적으로 프레임워크(framework)를 통해 웹 서버를 구축하고 운영한다.
-    <details open>
+    <details>
     <summary>백엔드 추가조사</summary>
 
     ## 프레임워크(framework)
@@ -111,3 +113,22 @@
 + 다양한 뜻을 내포한 단어이지만 개발 쪽에서 디자인이라 하면 보통 **UI/UX**(User Interface)/(User Experience) 디자인을 의미한다.
 + 수많은 도구를 사용할 수 있지만 대표적으로 Figma,Adobe Illustrator,Adobe Photoshop 등의 프로그램을 사용한다.
 + 사용자에게 좋은 인상을 남기고 사용하기 편리한 인터페이스를 구성해야 하기에 기본적인 UI/UX 지식과 약간의 미적감각이 있으면 더욱더 좋다.
+
+# 웹 프로젝트에서의 프론트엔드와 백엔드
+### 프론트엔드의 역할
++ 웹사이트,애플리케이션 등의 UI를 구축/구현한다.
++ 디자이너들이 디자인한 내용을 실제로 구현하는 역할
++ 이미지,코드를 최적화하고 캐싱(Caching) 등의 기술을 통해 실행속도를 최적화한다.
++ 이미지를 선택하고 확대하는 등의 기능(Service)을 구현한다.
++ 웹 사이트의 호환성을 확보하여 여러 브라우저(Browser)나 OS(**O**perating **S**ystem)에서 구동을 보장한다.
++ 프론트엔드 분야에서의 보안 취약점을 식별하고 이를 수정하는 역할도 맡을 수 있다.
+### 백엔드의 역할
++ 프론트엔드에서 넘어온 데이터를 처리하기 위해 서버를 구축한다.
++ 서버 구축에서 더 나아가 필요한 경우 데이터를 저장하고 사용하기 위해 DB도 구축하고 연결한다.
++ DB 내의 데이터를 관리한다.
++ 보안 취약점을 파악하고 이를 수정하여 사용자의 개인정보를 보호하는 역할도 맡는다.
++ 트래픽을 분석하고 반복되는 작업을 자동화하여 서버로직을 효율적으로 만든다.
+### 프론트엔드와 백엔드의 상호작용
++ 프론트엔드는 백엔드가 구현한 서버와 DB를 이용해 사용자들이 효율적으로 정보를 탐색하고 사람들의 요청을 처리할 수 있도록 페이지를 구현함
++ 프론트엔드가 구현한 페이지들에 백엔드가 맞춰서 최적하된 API를 제공하기도 함(<a href="https://ordinary-code.tistory.com/194">B</a><a href="https://f-lab.kr/insight/understanding-BFF-pattern">F</a><a href="https://metleeha.tistory.com/entry/BFFBackend-for-Frontend-%EB%9E%80">F</a> <a href="https://learn.microsoft.com/en-us/azure/architecture/patterns/backends-for-frontends">Pattern</a>; **B**ackend **f**or **F**rontend Pattern)
++ 기본적으로 프론트엔드가 개발한 페이지와 서비스를 처리할 수 있도록 백엔드에서 API를 제공하는 방식으로 협업함
