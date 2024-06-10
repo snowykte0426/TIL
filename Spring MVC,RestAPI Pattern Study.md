@@ -1,20 +1,3 @@
-<html lang="ko">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <style>
-        h1, h2, h3, h4, h5, h6 {
-            border-bottom: none;
-        }
-    .rotated-star {
-        display: inline-block;
-        transform: rotate(45deg);
-    }
-    </style>
-</head>
-</html>
-
 # Spring MVC 패턴
 
 
@@ -99,4 +82,3 @@
 + **Spring Data JPA**를 이용해 데이터베이스 작업을 간단히 처리할 수 있다거나, **Spring Security**를 통해 API보안을 강화하는 등의 기능이 존재한다.
 + 스프링부트는 **HATEOAS**(**H**ypertext **A**s **T**he **E**ngine **O**f **A**pplication **S**tate)와 같은 REST API 패턴을 원칙으로 삼도록 지원한다.
 + REST API 패턴을 준수하며 스프링부트를 사용하면 클라이언트와 서버 간의 효율적이고 유연한 통신을 구축할 수 있고 개발이 용이해질 수 있음
- 
