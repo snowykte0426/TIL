@@ -3,7 +3,7 @@
 
 ### 개요
 ---
- + Spring 프레임워크(freamwork)의 모듈 중에서 웹 계층에 서블릿(Servlet) API를 기반으로 클라이언트의 요청을 처리하는 모듈을 스프링 웹 MVC(Spring-Web-MVC) 또는 스프링 MVC(Spring MVC)라 한다.
+ + Spring 프레임워크(framework)의 모듈 중에서 웹 계층에 서블릿(Servlet) API를 기반으로 클라이언트의 요청을 처리하는 모듈을 스프링 웹 MVC(Spring-Web-MVC) 또는 스프링 MVC(Spring MVC)라 한다.
 
 <h4><span class="rotated_star">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp★</span> <b>서블릿(Servlet)이란?</b></h4>
 <blockquote>
@@ -32,7 +32,7 @@
 ### Spring MVC의 구성과 동작
 ![Spring MVC](https://github.com/snowykte0426/TIL/blob/main/img/Spring_MVC.png?raw=true)
 + 먼저 가장 앞에 보이는 **DispatcherServlet**은 **HttpServlet**를 상속받아 사용한다.
-+ 서블릿이 호출되면 HttpServlet가 제공하는 <b>Service()</b>가 호출되며 Spring MVC는 <b>FreamworkServlet.service()</b>를 시작으로 여러 메서드(method)가 호출되며 <b>DispacherServlet.doDispatch()</b>가 최종적으로 호출된다.
++ 서블릿이 호출되면 HttpServlet가 제공하는 <b>Service()</b>가 호출되며 Spring MVC는 <b>FrameworkServlet.service()</b>를 시작으로 여러 메서드(method)가 호출되며 <b>DispacherServlet.doDispatch()</b>가 최종적으로 호출된다.
 + 기본적으로 이러한 형태로 동작된다.
   + **핸들러(Handler)** 조회: 핸들러 매핑을 통해 URL에 매핑된 핸들러를 조회한다.
   + 핸들러 어댑터 조회: 핸들러를 실행할 수 있는 핸들러 어댑터를 조회한다.
