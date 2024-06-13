@@ -1,20 +1,3 @@
-<html lang="ko">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <style>
-        h1, h2, h3, h4, h5, h6 {
-            border-bottom: none;
-        }
-    .rotated-star {
-        display: inline-block;
-        transform: rotate(45deg);
-    }
-    </style>
-</head>
-</html>
-
 # Spring MVC 패턴
 
 
