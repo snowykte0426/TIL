@@ -1,3 +1,20 @@
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h1, h2, h3, h4, h5, h6 {
+            border-bottom: none;
+        }
+    .rotated-star {
+        display: inline-block;
+        transform: rotate(45deg);
+    }
+    </style>
+</head>
+</html>
+
 # Spring MVC 패턴
 
 
@@ -122,7 +139,11 @@
 + 최근 OpenAPI,마이크로서비스(Micro Service) 등을 제공하는 **업체 중 대부분은 REST API를 제공한다**.
 + ### 설계 규칙
     <ol>
+        <li>URI는 <b>정보의 자원을 표현</b>해야 한다.</li>
+        <li>리소스명은 동사보다는 <b>명사를 사용</b>한다.</li>
         <li>슬래시 구분자('/')는 <b>계층 관계를 나타내는데</b> 사용한다.</li>
+        <li>자원에 대한 행위는 <b>HTTP 메서드로 표현</b>한다.<br>
+        ex)<code>DELETE /movies/1</code>
         <li>URI 마지막 문자로 <b>슬래시 구분자를 포함하지 않는다</b></li>
         <li>불가피하게 긴 URI를 사용하게 된다면 <b>하이폰 기호('-')를 이용해 가독성을 높인다</b>.</li>
         <li><b>밑줄 기호('_')는 URI에 사용하지 않는다</b>.</li>
