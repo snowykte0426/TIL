@@ -154,3 +154,4 @@
 - [REST API란 무엇인가?](https://junvelee.tistory.com/107)
 - [REST API 제대로 알고 사용하기](https://meetup.nhncloud.com/posts/92)
 - [REST API란, HTTP Method](https://velog.io/@ellyheetov/REST-API)
+- [Hypermedia-driven REST API](https://m.blog.naver.com/tmondev/220391644590)
